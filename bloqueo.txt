@@ -166,6 +166,8 @@
 127.0.0.1 www.pbskids.org  
 127.0.0.1 boomerangtv.co.uk  
 127.0.0.1 www.boomerangtv.co.uk  
+127.0.0.1 juegos.games
+127.0.0.1  www.isladejuegos.com
 
 
 # Chats, citas y redes de encuentro no recomendadas
