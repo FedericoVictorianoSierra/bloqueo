@@ -1,0 +1,143 @@
+# Contenido para adultos / pornografía
+127.0.0.1 pornhub.com
+127.0.0.1 www.pornhub.com
+127.0.0.1 xvideos.com
+127.0.0.1 www.xvideos.com
+127.0.0.1 xnxx.com
+127.0.0.1 www.xnxx.com
+127.0.0.1 redtube.com
+127.0.0.1 www.redtube.com
+127.0.0.1 youporn.com
+127.0.0.1 www.youporn.com
+127.0.0.1 tube8.com
+127.0.0.1 www.tube8.com
+127.0.0.1 spankwire.com
+127.0.0.1 www.spankwire.com
+
+# Redes sociales (para limitar acceso o evitar distracciones)
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 snapchat.com
+127.0.0.1 www.snapchat.com
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 tumblr.com
+127.0.0.1 www.tumblr.com
+127.0.0.1 discord.com
+127.0.0.1 www.discord.com
+
+# Juegos en línea y plataformas (ampliado)
+
+127.0.0.1 roblox.com
+127.0.0.1 www.roblox.com
+127.0.0.1 minecraft.net
+127.0.0.1 www.minecraft.net
+127.0.0.1 steamcommunity.com
+127.0.0.1 www.steamcommunity.com
+127.0.0.1 epicgames.com
+127.0.0.1 www.epicgames.com
+127.0.0.1 miniclip.com
+127.0.0.1 www.miniclip.com
+127.0.0.1 addictinggames.com
+127.0.0.1 www.addictinggames.com
+127.0.0.1 kongregate.com
+127.0.0.1 www.kongregate.com
+127.0.0.1 newgrounds.com
+127.0.0.1 www.newgrounds.com
+127.0.0.1 pogo.com
+127.0.0.1 www.pogo.com
+127.0.0.1 neopets.com
+127.0.0.1 www.neopets.com
+127.0.0.1 armorgames.com
+127.0.0.1 www.armorgames.com
+127.0.0.1 y8.com
+127.0.0.1 www.y8.com
+127.0.0.1 friv.com
+127.0.0.1 www.friv.com
+127.0.0.1 games.yahoo.com
+127.0.0.1 www.games.yahoo.com
+127.0.0.1 shockwave.com
+127.0.0.1 www.shockwave.com
+127.0.0.1 miniclip.com
+127.0.0.1 www.miniclip.com
+127.0.0.1 coolmathgames.com
+127.0.0.1 www.coolmathgames.com
+127.0.0.1 silvergames.com
+127.0.0.1 www.silvergames.com
+127.0.0.1 friv.com
+127.0.0.1 www.friv.com
+127.0.0.1 mousebreaker.com
+127.0.0.1 www.mousebreaker.com
+127.0.0.1 poki.com
+127.0.0.1 www.poki.com
+127.0.0.1 gameflare.com
+127.0.0.1 www.gameflare.com
+127.0.0.1 crazymonkeygames.com
+127.0.0.1 www.crazymonkeygames.com
+127.0.0.1 agame.com
+127.0.0.1 www.agame.com
+127.0.0.1 addictinggames.com
+127.0.0.1 www.addictinggames.com
+127.0.0.1 hoodamath.com
+127.0.0.1 www.hoodamath.com
+127.0.0.1 freeonlinegames.com
+127.0.0.1 www.freeonlinegames.com
+127.0.0.1 flashgamesplayer.com
+127.0.0.1 www.flashgamesplayer.com
+127.0.0.1 gamesgames.com
+127.0.0.1 www.gamesgames.com
+127.0.0.1 coolgames.com
+127.0.0.1 www.coolgames.com
+127.0.0.1 armorgames.com
+127.0.0.1 www.armorgames.com
+127.0.0.1 www.juegos.com
+127.0.0.1 playhop.com
+127.0.0.1 www.minijuegos.mx
+
+# Chats, citas y redes de encuentro no recomendadas
+127.0.0.1 omegle.com
+127.0.0.1 www.omegle.com
+127.0.0.1 chatroulette.com
+127.0.0.1 www.chatroulette.com
+127.0.0.1 tinder.com
+127.0.0.1 www.tinder.com
+127.0.0.1 badoo.com
+127.0.0.1 www.badoo.com
+127.0.0.1 meetme.com
+127.0.0.1 www.meetme.com
+127.0.0.1 whisper.sh
+127.0.0.1 www.whisper.sh
+
+# Sitios de torrents y descargas ilegales
+127.0.0.1 thepiratebay.org
+127.0.0.1 www.thepiratebay.org
+127.0.0.1 1337x.to
+127.0.0.1 www.1337x.to
+127.0.0.1 rarbg.to
+127.0.0.1 www.rarbg.to
+127.0.0.1 yts.mx
+127.0.0.1 www.yts.mx
+
+# Sitios de apuestas y juegos de azar
+127.0.0.1 bet365.com
+127.0.0.1 www.bet365.com
+127.0.0.1 williamhill.com
+127.0.0.1 www.williamhill.com
+127.0.0.1 pokerstars.com
+127.0.0.1 www.pokerstars.com
+127.0.0.1 888casino.com
+127.0.0.1 www.888casino.com
+
+# Otros sitios problemáticos
+127.0.0.1 4chan.org
+127.0.0.1 www.4chan.org
+127.0.0.1 ebaumsworld.com
+127.0.0.1 www.ebaumsworld.com
+127.0.0.1 cracked.com
+127.0.0.1 www.cracked.com
