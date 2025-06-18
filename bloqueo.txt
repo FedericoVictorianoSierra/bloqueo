@@ -1,18 +1,4 @@
-# Contenido para adultos / pornografía
-127.0.0.1 pornhub.com
-127.0.0.1 www.pornhub.com
-127.0.0.1 xvideos.com
-127.0.0.1 www.xvideos.com
-127.0.0.1 xnxx.com
-127.0.0.1 www.xnxx.com
-127.0.0.1 redtube.com
-127.0.0.1 www.redtube.com
-127.0.0.1 youporn.com
-127.0.0.1 www.youporn.com
-127.0.0.1 tube8.com
-127.0.0.1 www.tube8.com
-127.0.0.1 spankwire.com
-127.0.0.1 www.spankwire.com
+#Bloqueo de dominios en un navegador
 
 # Redes sociales (para limitar acceso o evitar distracciones)
 127.0.0.1 facebook.com
@@ -230,7 +216,20 @@
 127.0.0.1 www.gamesloon.com  
 127.0.0.1 www.learn4good.com  
 127.0.0.1 www.neopets.com  
-127.0.0.1 www.subwaygames.com  
+127.0.0.1 www.subwaygames.com
+127.0.0.1 www.juegosjuegos.com
+127.0.0.1 www.minijuegos.com
+127.0.0.1 www.blipzi.com
+127.0.0.1 www.minijuegostop.com.mx
+127.0.0.1 es.y8.com
+127.0.0.1 juegosonlinegratis.com.mx
+127.0.0.1 www.mahee.es
+127.0.0.1 play-games.io
+127.0.0.1 www.juegos123.net
+127.0.0.1 www.fandejuegos.com
+127.0.0.1 games.terra.com
+127.0.0.1 www.juegalo.com.co
+127.0.0.1 www.juegosfriv.com
 
 # Chats, citas y redes de encuentro no recomendadas
 127.0.0.1 omegle.com
@@ -265,6 +264,22 @@
 127.0.0.1 www.pokerstars.com
 127.0.0.1 888casino.com
 127.0.0.1 www.888casino.com
+
+# Contenido para adultos / pornografía
+127.0.0.1 pornhub.com
+127.0.0.1 www.pornhub.com
+127.0.0.1 xvideos.com
+127.0.0.1 www.xvideos.com
+127.0.0.1 xnxx.com
+127.0.0.1 www.xnxx.com
+127.0.0.1 redtube.com
+127.0.0.1 www.redtube.com
+127.0.0.1 youporn.com
+127.0.0.1 www.youporn.com
+127.0.0.1 tube8.com
+127.0.0.1 www.tube8.com
+127.0.0.1 spankwire.com
+127.0.0.1 www.spankwire.com
 
 # Otros sitios problemáticos
 127.0.0.1 4chan.org
