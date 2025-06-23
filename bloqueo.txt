@@ -230,6 +230,7 @@
 127.0.0.1 games.terra.com
 127.0.0.1 www.juegalo.com.co
 127.0.0.1 www.juegosfriv.com
+127.0.0.1 www.boolgame.com
 
 # Chats, citas y redes de encuentro no recomendadas
 127.0.0.1 omegle.com
