@@ -231,6 +231,12 @@
 127.0.0.1 www.juegalo.com.co
 127.0.0.1 www.juegosfriv.com
 127.0.0.1 www.boolgame.com
+127.0.0.1 doodles.google
+127.0.0.1 www.fnfgo.com
+127.0.0.1 playhop.com
+127.0.0.1 lagged.com
+127.0.0.1 www.msn.com/en-us/play
+127.0.0.1 zone.msn.com
 
 # Chats, citas y redes de encuentro no recomendadas
 127.0.0.1 omegle.com
